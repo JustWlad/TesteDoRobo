@@ -7,7 +7,6 @@ namespace TesteDoRobov3
     {
         static void Main(string[] args)
         {
-            
             VerificarDados V = new VerificarDados(); // instância feita para poder usar as propriedades da classe verificar dados
             Robo R = new Robo();                     // instância feita para poder usar as propriedades da classe robô
 
