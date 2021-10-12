@@ -1,0 +1,13 @@
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.exe
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.deps.json
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.runtimeconfig.json
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.runtimeconfig.dev.json
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.dll
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\bin\Debug\netcoreapp3.1\TesteDoRobov3.pdb
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.csprojAssemblyReference.cache
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.AssemblyInfoInputs.cache
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.AssemblyInfo.cs
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.csproj.CoreCompileInputs.cache
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.dll
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.pdb
+C:\Users\wladi\source\repos\TesteDoRobov3\TesteDoRobov3\obj\Debug\netcoreapp3.1\TesteDoRobov3.genruntimeconfig.cache
